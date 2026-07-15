@@ -1,0 +1,46 @@
+# 온기(ongi) 🫧
+
+> 어르신(부모)의 건강을 자녀(보호자)가 함께 관리하는 **AI 헬스케어 서비스**
+> Tech4Good 해커톤 11팀
+
+부모 모드(건강 체크·AI 대화)와 자녀 모드(대시보드·건강정보·AI 상담)를 하나의 서비스로 잇습니다.
+
+---
+
+## 👥 팀 소개
+
+| 이름 | 역할 | 담당 | GitHub |
+|---|---|---|---|
+| 홍석윤 | 기획 | 서비스 기획, 기능 정의 | [@id](https://github.com/id) |
+| 서현호 | 기획 | 서비스 기획, 시나리오 설계 | [@id](https://github.com/id) |
+| 김세인 | 기획 · 모델링 | 서비스 기획, DL/ML 모델 개발 | [@id](https://github.com/id) |
+| 박정민 | 팀장 · 프론트엔드 | 팀 리딩, 부모/자녀 화면, API 연동, 상태 관리 | [@id](https://github.com/id) |
+| 이진희 | 백엔드 · 모델링 | API 개발, DL/ML 모델 개발 | [@id](https://github.com/id) |
+| 김기훈 | 백엔드 | API 설계, 세션 인증, DB | [@id](https://github.com/id) |
+| 박필호 | 모델링 · 발표 | DL/ML 모델 개발, 최종 발표 | [@id](https://github.com/id) |
+| 장현정 | 디자인 | UX/UI 디자인, 브랜딩 | [@id](https://github.com/id) |
+
+### 파트별 구성
+- **기획** · 홍석윤 · 김세인 · 서현호
+- **프론트엔드** · 박정민
+- **백엔드** · 이진희 · 김기훈
+- **모델링 (DL · ML)** · 김세인 · 박필호 · 이진희
+- **디자인** · 장현정
+- **발표** · 박필호
+
+---
+
+## 📦 레포지토리
+
+| 레포 | 설명 |
+|---|---|
+| [Tech4Good-11-FE](https://github.com/Tech4Good-11/Tech4Good-11-FE) | 프론트엔드 (React · TypeScript · Vite) |
+| [Tech4Good-11-BE](https://github.com/Tech4Good-11) | 백엔드 (API · AI) |
+
+---
+
+## 🛠️ 기술 스택
+
+**Frontend** · React 19 · TypeScript · Vite · React Router · Axios · Tailwind CSS
+**Backend** · (백엔드 스택 입력)
+**AI / Modeling** · (DL·ML 스택 입력)
